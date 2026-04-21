@@ -1,25 +1,38 @@
-# 🚀 Task 1 - Blog Platform (MERN Stack)
+# 🚀 Task 1 - Blog Platform
 
-## 📌 Project Overview
-This project is a full-stack Blog Platform developed as part of my internship at CipherByte Technologies. It allows users to create, read, update, and delete blog posts.
-
----
+This is a full-stack Blog Platform developed during my internship at CipherByte Technologies.
 
 ## 🛠️ Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- API: RESTful APIs
-
----
+- React.js (Frontend)
+- Node.js & Express.js (Backend)
+- MongoDB (Database)
 
 ## ✨ Features
-- User authentication (if implemented)
-- Create, edit, delete blog posts
-- Responsive UI
+- Create, update, delete blog posts
 - REST API integration
-- Backend structured using MVC architecture
+- Structured backend (MVC)
+- Responsive UI
+
+## 📂 Project Structure
+- backend → API, routes, controllers, models
+- frontend → UI components and pages
+
+## ⚙️ Run Locally
+1. Install dependencies:
+   npm install
+
+2. Start backend:
+   npm start
+
+3. Start frontend:
+   npm start
+
+## 📌 Learning
+- Built full-stack MERN application  
+- Learned API development and integration  
+- Improved problem-solving and development skills  
 
 ---
 
-## 📂 Project Structure
+👨‍💻 Krishn Kumar Pandey  
+Web Development Intern @ CipherByte Technologies
